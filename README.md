@@ -19,7 +19,9 @@ The user must install the required software above in order to edit/implement the
 The user would need to run Unity via a working device in order to access Josue's Horror Adventure
 
 ## Authors
-Dannisse Arenas | Front-End Developer, Back-End Developer, Game Design, Graphic Artist, Level Design, Sound Engineer, Game Tester, Physics, Scripting
+Team Member  | Role
+------------- | -------------
+Dannisse Arenas  | Front-End Developer, Back-End Developer, Game Design, Graphic Artist, Level Design, Sound Engineer, Game Tester, Physics, Scripting
 
 ## Version History
 0.1 Initial Release
